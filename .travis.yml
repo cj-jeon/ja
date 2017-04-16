@@ -1,0 +1,6 @@
+language: ruby
+rvm:
+  - 2.3.3
+sudo: false
+install: gem install jekyll github-pages html-proofer
+script: bundle exec jekyll build && htmlproofer ./_site
