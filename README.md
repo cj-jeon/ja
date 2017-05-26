@@ -9,6 +9,6 @@
 
 ### このコミュニティーについて
 
-このコミュニティーには[行動規範](https://k5-community.github.io/ja/code-of-conduct)があります。この行動規範を尊重していただけると助かります。
+このコミュニティーには[行動規範](https://k5-community.github.io/ja/code-of-conduct)がありますので、お守りください。
 
 このコミュニティーの運営方法に関するご意見や活動の提案は [Issues](https://github.com/k5-community/ja/issues) において受け付けています。
