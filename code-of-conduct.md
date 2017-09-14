@@ -63,8 +63,8 @@ kato.tomoyuki@jp.fujitsu.com に連絡して、
 
 ## 帰属
 
-この行動規範は
-https://www.contributor-covenant.org/version/1/4/code-of-conduct/
-にある [Contributor Covenant][homepage] バージョン 1.4 に適合しています。
+この行動規範は [Code of Conduct][coc] ページにある
+[Contributor Covenant][homepage] バージョン 1.4 に適合しています。
 
 [homepage]: https://www.contributor-covenant.org
+[coc]: https://www.contributor-covenant.org/version/1/4/code-of-conduct/
