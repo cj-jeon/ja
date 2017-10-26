@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: K5コミュニティー
+google_analytics: UA-91316864-1
 exclude: [vendor]
