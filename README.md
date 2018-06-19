@@ -9,7 +9,7 @@ K5 に関する知見の共有および蓄積を目指しています。
 
 このコミュニティーは、コミュニケーションチャネルとして
 [Slack](https://k5-community.slack.com) を用意しています。
-[申し込みページ](https://k5-community.jp-east-1.cf-app.net)より、
+[申し込みページ](https://join.slack.com/t/k5-community/shared_invite/enQtMzM2NTMxNzAyODAyLWVjMzRhNDEwMDY0ODA0ZDk4YzE4MDY5OGZjOGY4YWE4ZTczZmRjNTE0NTBlMDNkODBiYmE3OTMwYmYyOGY5MGM)より、
 ご自身を招待する形でユーザー登録できます。
 K5 に関する話題はどのようなことでも問題ありません。
 ただし K5 に関わらない自社製品の宣伝などはご遠慮ください。
